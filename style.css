@@ -1,3 +1,10 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Contact Ali Jahangir Garments</title>
+<link rel="stylesheet" href="style.css">
+</head>
 body {
     margin: 0;
     font-family: Arial, sans-serif;
@@ -18,4 +25,18 @@ nav a {
 
 nav a:hover {
     text-decoration: underline;
-}
+}<nav>
+    <a href="index.html">Home</a> |
+    <a href="about.html">About</a> |
+    <a href="products.html">Products</a> |
+    <a href="contact.html">Contact</a>
+</nav>
+
+<h1>Contact Us</h1>
+
+<p>Ali Jahangir Garments</p>
+<p>Sialkot, Pakistan</p>
+<p>Email: info@example.com</p>
+
+</body>
+</html>
